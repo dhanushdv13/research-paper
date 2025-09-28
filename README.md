@@ -18,7 +18,7 @@ A Streamlit app to search, rank, and download research papers from **ArXiv**, **
 - Semantic Scholar API
 
 # Clone the repository
-git clone https://github.com/Jeevanthejas/Research-Paper-Recommendation.git
+git clone https://github.com/dhanushdv13/research-paper.git
 cd Research-Paper-Recommendation
 
 # Create virtual environment & install dependencies
